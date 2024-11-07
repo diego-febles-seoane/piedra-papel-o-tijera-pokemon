@@ -19,16 +19,14 @@
 
    #### Administrador
 
-     1. Crear usuarios nuevos.
-     2. Banear usuarios
-     3. Modificar o eliminar cuentas de usuario.
-     4. Acceder al panel de administración.
-     5. Generar reportes de actividad.
-     6. Modificar configuraciones de la aplicación.
-     7. Revisar y responder a solicitudes de soporte.
-     8. Suspender cuentas de usuario.
-     9. Visualizar sugerencias.
-     10. Añadir contenido a usuarios.
+      
+     1. Modificar o eliminar cuentas de usuario.
+     2. Administrar Usuarios
+     3. Acceder al panel de administración.
+     4. Generar reportes de actividad.
+     5. Modificar configuraciones de la aplicación.
+     6. Revisar y responder a solicitudes de soporte.
+     7. Visualizar sugerencias.
 
    #### Usuario Registrado
 
