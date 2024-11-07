@@ -20,7 +20,7 @@
    #### Administrador
 
      1. Crear usuarios nuevos.
-     2. Aprobar o rechazar contenido.
+     2. Banear usuarios
      3. Modificar o eliminar cuentas de usuario.
      4. Acceder al panel de administración.
      5. Generar reportes de actividad.
