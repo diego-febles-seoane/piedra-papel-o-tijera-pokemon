@@ -45,7 +45,7 @@
      11. Participar en combates amistosos.
      12. Ver perfil de otros usuarios.
 
-   #### Visitante
+   #### Usuario sin registrada
 
      1. Acceder al menu
      2. Iniciar cuenta
