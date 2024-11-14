@@ -30,8 +30,8 @@
 
    #### Usuario Registrado
 
-     1. Crear cuenta de usuario.
-     2. Iniciar sesión en la aplicación.
+     1. Ajuste de cuenta
+     2. Iniciar sesión
      3. Editar su perfil.
      4. Acceder a su configuracion.
      5. Preparar sus Pokemons.
@@ -43,10 +43,10 @@
      11. Participar en combates amistosos.
      12. Ver perfil de otros usuarios.
 
-   #### Usuario sin registrada
+   #### Usuario sin registrar
 
      1. Acceder al menu
-     2. Iniciar cuenta
+     2. Crear cuenta
      3. Participar en combates amistosos
      4. Ver perfiles de otros usuarios.
 
