@@ -40,8 +40,6 @@
      8. Participar en combates.
      9. Eliminar su cuenta.
      10. Mandar sugerencias.
-     11. Participar en combates amistosos.
-     12. Ver perfil de otros usuarios.
 
    #### Usuario sin registrar
 
